@@ -1,7 +1,7 @@
 # alias.fish
 
 function edfish
-  $EDITOR ~/Projects/qw-fish-config
+  $EDITOR ~/Projects/qw-fish
 end
 
 function fallback --description 'allow a fallback value for variable'
